@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is mmfile
+=======
+this githubsmp file
+>>>>>>> ee31ae30353c73503acc498ee051bb82f789e0d0

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is ex fil
 this is normal file
+=======
+this is ex file
+this is github file
+>>>>>>> ee31ae30353c73503acc498ee051bb82f789e0d0
