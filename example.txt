@@ -1,1 +1,2 @@
-this is ex file
+this is ex fil
+this is normal file
